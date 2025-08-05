@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366657212361",
+    "project_id": "agiteksva",
+    "storage_bucket": "agiteksva.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366657212361:android:60993323b233bc42f02218",
+        "android_client_info": {
+          "package_name": "com.agiteks.com.agiteksVA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366657212361-ntgtuq0qi7t0s30rfd2p6hrhlvc7q5ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agiteks.com.agiteksVA",
+            "certificate_hash": "a84af1ac2d63caacf330bba2b36e854cc576d44a"
+          }
+        },
+        {
+          "client_id": "366657212361-pv2h0a41k76m1tmb95rfsjdk46idc1do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClzTnsGifPqZhtpcQKTV4NbpTQeuB_wII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366657212361-pv2h0a41k76m1tmb95rfsjdk46idc1do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
